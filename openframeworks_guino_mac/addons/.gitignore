@@ -1,0 +1,22 @@
+!ofAddons.h
+!.project
+!ofx3DModelLoader
+!ofxAccelerometer
+!ofxDirList
+!ofxiPhone
+!ofxMultiTouch
+!ofxNetwork
+!ofxOpenCv
+!ofxOsc
+!ofxThread
+!ofxVectorGraphics
+!ofxVectorMath
+!ofxXmlSettings
+!ofxAndroid
+ofxAndroid/ofAndroidLib/bin
+ofxAndroid/ofAndroidLib/gen
+!ofxAssimpModelLoader
+!ofxGui
+
+# don't ignore the .gitignore file
+!.gitignore

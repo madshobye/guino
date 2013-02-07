@@ -1,0 +1,25 @@
+<Widget>
+    <Kind>12</Kind>
+    <Name>TEXT INPUT</Name>
+    <Value>Input Text</Value>
+</Widget>
+<Widget>
+    <Kind>8</Kind>
+    <Name>NUMBER DIALER</Name>
+    <Value>1000</Value>
+</Widget>
+<Widget>
+    <Kind>17</Kind>
+    <Name>LABEL TOGGLE</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>17</Kind>
+    <Name>AUTOSIZE TOGGLE</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>17</Kind>
+    <Name>MEDIUM TOGGLE</Name>
+    <Value>0</Value>
+</Widget>
